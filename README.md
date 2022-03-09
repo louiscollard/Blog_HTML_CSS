@@ -1,1 +1,1 @@
-# Blog_HTML_CSS
+![Project humbnail](./thumbnail.jpg)
